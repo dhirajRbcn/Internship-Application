@@ -1,9 +1,6 @@
 # Synopsys R&D Internship-Application
 Application for Synopsys R&amp;D Engineering Internship (Noida) – Includes a detailed write-up on why I am a strong fit for the role, my relevant skills, and links to key academic verification projects in SystemVerilog, UVM, and Digital Design
 
-
-# Synopsys R&D Engineering Internship – Application
-
 ## Why I am a Good Fit
 I am **Electronics and Communication Engineering** graduate (B.E., 2025) from **L.D. College of Engineering**, with a strong academic record (**CGPA: 8.90**).  
 My passion lies in **Digital Design, ASIC Verification**, backed by a solid foundation in design verification concepts, HDL coding, and scripting.  
